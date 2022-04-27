@@ -1,4 +1,4 @@
----
+---managing-notifications-from-your-inbox.md
 title: Managing notifications from your inbox
 intro: 'Use your inbox to quickly triage and sync your notifications across email{% ifversion fpt or ghes or ghec %} and mobile{% endif %}.'
 redirect_from:
